@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/InventoryScene.unity
+    guid: 43d2303ff5326664e9f467ac15834b30
+  - enabled: 1
+    path: Assets/Scenes/InventorySceneSelected.unity
+    guid: ff56c4e13f4a4f445abf8e311d11cc23
+  - enabled: 1
+    path: Assets/Scenes/InventorySceneCraft.unity
+    guid: 9d985af0ac1cf0b4f9951ef525ed77ec
+  - enabled: 1
+    path: Assets/Scenes/InventorySceneCantCraft.unity
+    guid: d77457e728fc8014a907fd2d50e49b76
+  - enabled: 1
+    path: Assets/Scenes/AwardScene.unity
+    guid: 893155648fbcfce4b89ef63a819f55fc
+  - enabled: 1
+    path: Assets/Scenes/CharacterScene.unity
+    guid: 58dac7c738df02842b77968e9738ae73
+  m_configObjects: {}
